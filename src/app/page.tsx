@@ -1,3 +1,4 @@
+import Image from 'next/image';
 
 export default async function Home() {
 
@@ -6,10 +7,12 @@ export default async function Home() {
       <section className="home section" id="home">
         <div className="container">
           <div className="intro">
-            <img
+            <Image
               src="/imgs/PNG/Logo.png"
-              alt="Adekanola Logo"
+              alt="Adekanola Logo - Personal logo representing Adekanola Opolola"
               className="shadow-dark"
+              width={300}
+              height={300}
             />
             <h1>Adekanola Opolola</h1>
             <p>Computer Science Major</p>
@@ -23,7 +26,6 @@ export default async function Home() {
               </a>
               <a href="tel:+1800229933">
                 <i className="fa fa-phone" />
-              
               </a>
             </div>
           </div>
