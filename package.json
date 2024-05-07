@@ -1,7 +1,7 @@
 {
   "name": "Adekanola",
   "version": "1.1.0",
-  "homepage": "https://adekanola-38.github.io/Portfolio-Website",
+  "homepage": "https://adekanola-38.github.io/Portfolio-Website/src/app/page.tsx",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
