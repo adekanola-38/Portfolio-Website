@@ -29,7 +29,7 @@ const Resume: NextPage = () => {
                             
                             <div className="circle-dot" />
                                 <p className="timeline-text">
-                            I'm currently a secoind year student</p>
+                            I&apos;m currently a second year student</p>
                             <p>Relevant courses completed: Web Development Programming, Programming Practices, Linear Algebra, Data Structures and Algorithms.                    
                             </p>
                         </div>

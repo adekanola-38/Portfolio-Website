@@ -20,7 +20,7 @@ const About: NextPage = () => {
                   <p>
                   My name is Adekanola Opololaoluwa. I am currently a 2nd-year Computer science student at the University of Prince Edward Island. 
                   My passion for technology stems from my desire to learn and explore new things. 
-                  I'm constantly trying out new things and meeting new people in order to find new challenges and chances.. 
+                  I&apos;m constantly trying out new things and meeting new people in order to find new challenges and chances.. 
                   In my free time, I actively participate in sports and read books. 
                   </p>
                 </div>
